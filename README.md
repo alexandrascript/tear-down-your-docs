@@ -1,12 +1,16 @@
 # How to tear down your documentation (and rewrite docs that actually work)
 
-In this repository, you will find my presentation for Write The Docs Prague 2018. This includes a PDF version of the slides, Keynote, and visual assets.
+In this repository, you will find my presentation for [Write The Docs Prague 2018](http://www.writethedocs.org/conf/prague/2018/).
+
+This includes a PDF version of the slides, Keynote, and visual assets.
 
 ## Abstract
 
 We all know what it’s like to look at a series of existing documentation and think, “how did this happen?” Be it a large swath of unorganized content or a lack of a clear strategy, the complications of bad docs aren’t just a curse for documentation editors. Our readers see it, too. It leads to confused support requests and possibly a loss of customers.
 
-When I started at Joyent, I was continuously made aware of documentation that needed help, and it felt like a nonstop firefight. Over time, I was able to quell the fires, create a content strategy, and completely redefine how our documentation works. Then all of my work was blown up a second time ‐ this time, starting from scratch with a not yet existing product. From this experience, I’ve learned it’s all about being organized and having a clear strategy.
+When I started at [Joyent](https://www.joyent.com/), I was continuously made aware of documentation that needed help, and it felt like a nonstop firefight. Over time, I was able to quell the fires, create a content strategy, and completely redefine how our documentation works. 
+
+While in the middle of my overhaul, my work was blown up a second time and my project was put on hold. From these challenges, I’ve learned it’s all about being organized and having a clear strategy.
 
 In this talk, we’ll discuss:
 
