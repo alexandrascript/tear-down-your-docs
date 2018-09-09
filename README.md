@@ -38,3 +38,15 @@ My name is Alexandra White, and I'm a technical writer (and soon-to-be curriculu
 + [See my work](https://heyawhite.com/). It's mostly web development projects, but there's also some writing.
 + [Let's be Twitter friends](https://twitter.com/heyawhite). People should be nicer on Twitter. We can be those people.
 
+## Additional Resources
+
++ [Joyent’s style guide](https://docs.joyent.com/writing-rules/style-guide)
++ [MailChimp's voice and tone guide](http://voiceandtone.com)
++ [Microsoft document planning](https://msdn.microsoft.com/en-us/library/dd163515.aspx)
+
+### Photography and iconography
+
++ [The Noun Project](http://thenounproject.com)
++ [Unsplash photography](http://unsplash.com)
+
+
