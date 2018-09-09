@@ -1,4 +1,5 @@
-# How to tear down your documentation (and rewrite docs that actually work)
+# How to tear down your documentation
+## (And rewrite docs that actually work)
 
 In this repository, you will find my presentation for [Write The Docs Prague 2018](http://www.writethedocs.org/conf/prague/2018/).
 
@@ -21,3 +22,9 @@ In this talk, we’ll discuss:
    + setting easy‐to‐follow guidelines for non‐professional writers
 
 We’ll also touch on how to prioritize and manage all of this work without additional full‐time documentation help.
+
+## Biography
+
+Alexandra is a technical writer for Joyent. After hours, she is also a web engineer, building sites for non-profits.
+
+Find me on [Twitter](https://twitter.com/heyawhite).
