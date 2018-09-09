@@ -5,6 +5,8 @@ In this repository, you will find my presentation for [Write The Docs Prague 201
 
 This includes a PDF version of the slides, Keynote, and visual assets.
 
+Find me on [Twitter](https://twitter.com/heyawhite) and tweet during the presentation with [#writethedocs](https://twitter.com/search?q=%23writethedocs).
+
 ## Abstract
 
 We all know what it’s like to look at a series of existing documentation and think, “how did this happen?” Be it a large swath of unorganized content or a lack of a clear strategy, the complications of bad docs aren’t just a curse for documentation editors. Our readers see it, too. It leads to confused support requests and possibly a loss of customers.
@@ -26,5 +28,3 @@ We’ll also touch on how to prioritize and manage all of this work without addi
 ## Biography
 
 Alexandra is a technical writer for Joyent. After hours, she is also a web engineer, building sites for non-profits.
-
-Find me on [Twitter](https://twitter.com/heyawhite).
