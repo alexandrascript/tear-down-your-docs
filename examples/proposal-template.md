@@ -73,7 +73,7 @@ The following goals were used at Joyent for our documentation overhaul:
 + **Create a clear process for documentation requests.** The engineers, product team, documentation team, and anyone else involved in creating document materials should have a clear workflow for creating content.
    + This includes clear instructions for how to create content in whatever medium we decide should be the primary home for content, as well as templates for different types of content.
    + In some cases, it would be too disruptive to change the normal flow of content creation. We don’t want to make it any more difficult, leading to lesser contributions to docs. However, slow changes are necessary to make content creation easier in the future.
-+ ** Create a Process for document deprecation.** Not all of our documentation needs to live forever, as we deprecate or stop supporting older products. A true content lifecycle includes what happens when content is no longer needed or should no longer be public.
++ **Create a Process for document deprecation.** Not all of our documentation needs to live forever, as we deprecate or stop supporting older products. A true content lifecycle includes what happens when content is no longer needed or should no longer be public.
    + Do we silently remove materials? Or do we include warnings of deprecation, and if so for how long?
    + What do redirects for removed materials look like? Should they be specialized with a message about the deprecation or just directed to newer materials?
    + There must be rules for archiving materials so that older content is still accessible internally.
@@ -151,9 +151,9 @@ Peppered between step 4 and 8 should be user testing. We should be talking to fo
 
 What tools are needed for us to be successful? I required the following:
 
-+ [Camtasia for Mac](https://www.techsmith.com/video-editor.html): editing videos
-+ [Markdown editor](https://stackedit.io/)
-+ Image editor: possibly Pixelmator or Adobe Photoshop
++ Video editor, I prefer [Camtasia for Mac](https://www.techsmith.com/video-editor.html) though you could also use iMovie, Windows Movie Maker, Final Cut Pro X, etc.
++ Text editor or markdown editor
++ Image editor, possibly Pixelmator or Adobe Photoshop
 
 ## Cost
 
@@ -166,5 +166,10 @@ What else did we miss?
 ## Schedule
 
 When will we deliver our deliverables.
+
+| Deliverable | Description | Writer | Editor | Draft due date | Final due date |
+| ---------- | ---------- | ------ | ------ | --------- | ----------- |
+| Style Guide | Outlines controlled vocabulary, voice and tone, grammar rules, text styles, UI rules, and rules for accessibility. | Alexandra White | Technical writing and product team | April 15, 2017 | May 1, 2017 |
+
 
 
