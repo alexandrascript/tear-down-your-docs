@@ -11,6 +11,7 @@ This outline serves as an example for your docs tear down proposal. I've include
 ### You are free to
 
 Share — copy and redistribute the material in any medium or format
+
 Adapt — remix, transform, and build upon the material for any purpose, even commercially.
 
 This license is acceptable for Free Cultural Works.
@@ -30,6 +31,7 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 # Title of my proposal
 
 Written by: Your Name
+
 Date: September 10, 2018
 
 ## Introduction
