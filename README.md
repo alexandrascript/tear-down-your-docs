@@ -1,9 +1,9 @@
 # How to tear down your documentation
 ## (And rewrite docs that actually work)
 
-In this repository, you will find my presentation for [Write The Docs Prague 2018](http://www.writethedocs.org/conf/prague/2018/).
+In this repository, you will find my presentation for [Write The Docs Prague 2018](http://www.writethedocs.org/conf/prague/2018/). This includes a PDF version of the slides, Keynote, Microsoft PowerPoint, and visual assets.
 
-This includes a PDF version of the slides, Keynote, Microsoft PowerPoint, and visual assets.
+[Watch a recording of the live talk on YouTube](https://youtu.be/u119GkGSYII).
 
 Find me on [Twitter](https://twitter.com/heyawhite) and tweet during the presentation with [#writethedocs](https://twitter.com/search?q=%23writethedocs).
 
