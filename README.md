@@ -33,7 +33,7 @@ The big divergence is that I'm going to spend most of the time talking about how
 
 ## Who am I?
 
-My name is Alexandra White, and I'm a technical writer (and soon-to-be curriculum creator) for [Joyent](https://www.joyent.com/). Prior to that, I was a web developer for a U.S. television station, WNET. Throughout my career I've been an advocate for code comments, useful READMEs, and reusable documentation.
+My name is Alexandra White, and at the time of this talk, I was a technical writer for [Joyent](https://www.joyent.com/). Prior to that, I was a web developer for a U.S. television station, WNET. Throughout my career I've been an advocate for code comments, useful READMEs, and reusable documentation.
 
 + [See my work](https://heyawhite.com/). It's mostly web development projects, but there's also some writing.
 + [Let's be Twitter friends](https://twitter.com/heyawhite). People should be nicer on Twitter. We can be those people.
