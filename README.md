@@ -38,6 +38,8 @@ My name is Alexandra White, and at the time of this talk, I was a technical writ
 + [See my work](https://heyawhite.com/). It's mostly web development projects, but there's also some writing.
 + [Let's be Twitter friends](https://twitter.com/heyawhite). People should be nicer on Twitter. We can be those people.
 
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A244AFZ)
+
 ## Additional Resources
 
 + [Joyent’s style guide](https://docs.joyent.com/writing-rules/style-guide)
